@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm(SpringMvc+SpringBoot+Mybatis):war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="springboot_springmvc_mybatis-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ssm(SpringMvc+SpringBoot+Mybatis):war exploded" />
+    </root>
+  </artifact>
+</component>
